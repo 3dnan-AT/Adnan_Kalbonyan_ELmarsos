@@ -6,4 +6,4 @@
 - After that I learned about stacks
 - After that I learned Hashes (hash tables, dicthinaries)
 - After that I learned about Trees and Graphs
-- and I learned some algorithms like (search and sort arrays, binary search,
+- and I learned some algorithms like (search and sort arrays, binary search)
