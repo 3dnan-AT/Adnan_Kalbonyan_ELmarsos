@@ -22,13 +22,13 @@ Pacific = 'Mauna Kea'
 South_American = 'Aconcagua'
 
 peaks = {
-    African: 'Kilimangaro',
-    Antarctic: 'Vinson',
-    Australian: 'Puncak Jaya',
-    Eursian: 'Everest',
-    North_American: 'Denali',
-    Pacific: 'Mauna Kea',
-    South_American: 'Aconcagua'
+    'African': 'Kilimangaro',
+    'Antarctic': 'Vinson',
+    'Australian': 'Puncak Jaya',
+    'Eursian': 'Everest',
+    'North_American': 'Denali',
+    'Pacific': 'Mauna Kea',
+    'South_American': 'Aconcagua'
 }
 
-print(peaks[Pacific])
+print(peaks['Pacific'])
